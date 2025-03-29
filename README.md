@@ -26,7 +26,7 @@ A simple FedEx-like shipping and tracking website built using HTML, CSS, and Jav
    ```
 3. Open `ship.html` in a browser.
 
-## Usage
+## Usages
 - Enter a tracking ID and click the **TRACK** button to track shipments.
 - Use the **Rate & Ship** section to check shipping costs.
 - Locate service centers using the **Location** option.
